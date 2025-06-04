@@ -1,6 +1,6 @@
 ## Hi there, I'm Fermanachi 👋
 <img alt="commits" width="47%" src="https://github-readme-stats.vercel.app/api?username=mpreterer&show_icons=true" />
-<img alt="languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img alt="languages" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" />
 <!--
 **mpreterer/mpreterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
