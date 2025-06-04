@@ -1,5 +1,5 @@
 ## Hi there, I'm Fermanachi 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpreterer)](https://github.com/mpreterer/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpreterer&show_icons=true)](https://github.com/mpreterer/github-readme-stats)
 
 
 <!--
