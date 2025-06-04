@@ -1,7 +1,6 @@
 ## Hi there, I'm Fermanachi 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpreterer&show_icons=true)](https://github.com/mpreterer/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img alt="commits" src="https://github-readme-stats.vercel.app/api?username=mpreterer&show_icons=true" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 <!--
 **mpreterer/mpreterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
